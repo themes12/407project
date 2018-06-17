@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MATH407</string>
+    <string name="welcome">WELCOME</string>
+    <string name="textview">TextView</string>
+</resources>
